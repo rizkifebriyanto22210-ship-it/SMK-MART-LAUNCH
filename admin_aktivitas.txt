@@ -1,0 +1,36 @@
+04-11-2026|Rizki|Login
+04-11-2026|Admin3|Login
+04-11-2026|Admin3|Menambahkan barang BRG021 - Bayam
+04-11-2026|Admin3|Login
+04-11-2026|Admin3|Mengedit barang BRG021 - Selada
+04-11-2026|Admin3|Login
+04-11-2026|Admin3|Login
+04-11-2026|Admin3|Menonaktifkan barang BRG021 - Selada
+04-11-2026|Admin3|Login
+04-11-2026|Admin3|Mengaktifkan barang BRG021 - Selada
+06-11-2026|Admin3|Login
+06-11-2026|Admin3|Menonaktifkan barang BRG001 - Indomie Goreng
+06-11-2026|Admin3|Logout
+09-11-2026|Admin3|Login
+09-11-2026|Admin3|Login
+09-11-2026|Admin|Login
+09-11-2026|Admin|Login
+09-11-2026|Admin|Menambahkan barang BRG022 - Kangkung
+09-11-2026|Admin|Login
+09-11-2026|Admin|Login
+09-11-2026|Admin|Menonaktifkan akun Gudang3
+09-11-2026|Admin|Mengaktifkan akun Gudang3
+09-11-2026|Admin|Logout
+11-11-2026|Admin|Login
+11-11-2026|Admin|Login
+11-11-2026|Admin|Login
+12-11-2026|Admin|Login
+12-11-2026|Admin|Login
+12-11-2026|Admin|Login
+12-11-2026|Admin|Login
+12-11-2026|Admin|Login
+12-11-2026|Admin|Logout
+12-11-2026|Admin|Login
+12-11-2026|Admin|Login
+12-11-2026|Admin|Login
+12-11-2026|Admin|Login

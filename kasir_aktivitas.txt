@@ -1,0 +1,32 @@
+04-11-2026|RizkiKASIR|Login
+04-11-2026|Kasir4|Login
+04-11-2026|Kasir4|Menambahkan Indomie Goreng sebanyak 20 ke keranjang
+04-11-2026|Kasir4|Login
+04-11-2026|Kasir4|Menambahkan Indomie Goreng sebanyak 10 ke keranjang
+04-11-2026|Kasir4|Memproses pembayaran dengan total Rp35000
+04-11-2026|Kasir4|Login
+04-11-2026|Kasir4|Menambahkan Indomie Goreng sebanyak 10 ke keranjang
+04-11-2026|Kasir4|Memproses pembayaran dengan total Rp35000
+06-11-2026|Kasir4|Login
+06-11-2026|Kasir4|Login
+06-11-2026|Kasir4|Menambahkan Indomie Soto sebanyak 2 ke keranjang
+06-11-2026|Kasir4|Menambahkan Mie Sedaap Goreng sebanyak 7 ke keranjang
+06-11-2026|Kasir4|Memproses pembayaran dengan total Rp31500
+09-11-2026|Kasir4|Login
+09-11-2026|Kasir4|Login
+09-11-2026|Kasir4|Login
+09-11-2026|Kasir4|Login
+09-11-2026|Kasir4|Login
+09-11-2026|Kasir1|Login
+09-11-2026|Kasir1|Menambahkan Indomie Goreng sebanyak 2 ke keranjang
+09-11-2026|Kasir1|Memproses pembayaran dengan total Rp7000
+09-11-2026|Kasir1|Login
+09-11-2026|Kasir1|Login
+09-11-2026|Kasir1|Logout
+09-11-2026|Kasir1|Login
+09-11-2026|Kasir1|Menambahkan Indomie Goreng sebanyak 10 ke keranjang
+09-11-2026|Kasir1|Memproses pembayaran dengan total Rp35000
+09-11-2026|Kasir1|Logout
+10-11-2026|Kasirs|Login
+12-11-2026|Kasirs|Login
+12-11-2026|Kasirs|Logout

@@ -1,0 +1,28 @@
+04-11-2026|RizkiGudang|Login
+06-11-2026|Gudang3|Login
+09-11-2026|Gudang3|Login
+09-11-2026|Gudang3|Login
+09-11-2026|Gudang3|Barang masuk BRG002 - Indomie Soto sebanyak 10
+09-11-2026|Gudang3|Barang masuk BRG002 - Indomie Soto sebanyak 1
+09-11-2026|Gudang3|Login
+09-11-2026|Gudang3|Login
+09-11-2026|Gudang3|Login
+09-11-2026|Gudang3|Barang masuk BRG001 - Indomie Goreng sebanyak 10
+09-11-2026|Gudang3|Barang keluar BRG004 - Beras 1 kg sebanyak 2. Alasan: Dibeli
+09-11-2026|Gudang3|Barang keluar BRG001 - Indomie Goreng sebanyak 26. Alasan: Dibeli
+09-11-2026|Gudang3|Barang keluar BRG001 - Indomie Goreng sebanyak 12. Alasan: Dibeli
+09-11-2026|Gudang3|Login
+09-11-2026|Gudang3|Barang masuk BRG001 - Indomie Goreng sebanyak 28
+09-11-2026|Gudang3|Login
+09-11-2026|Gudang3|Barang masuk BRG001 - Indomie Goreng sebanyak 10
+09-11-2026|Gudang3|Barang masuk BRG001 - Indomie Goreng sebanyak 2
+09-11-2026|Gudang3|Login
+09-11-2026|Gudang3|Barang masuk BRG001 - Indomie Goreng sebanyak 10
+09-11-2026|Gudang3|Login
+09-11-2026|Gudang3|Login
+09-11-2026|Gudang3|Login
+09-11-2026|Gudang3|Login
+09-11-2026|Gudang3|Barang masuk BRG007 - Air Mineral 600 ml sebanyak 10
+09-11-2026|Gudang3|Barang keluar BRG001 - Indomie Goreng sebanyak 10. Alasan: expired
+12-11-2026|Gudang|Login
+12-11-2026|Gudang2|Login

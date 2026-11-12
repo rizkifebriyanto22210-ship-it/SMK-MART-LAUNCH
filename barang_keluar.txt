@@ -1,0 +1,7 @@
+18-10-2026 00:36:10|BRG001|Indomie Goreng|50|50|KAdaluarsa
+22-10-2026 09:25:02|Pulpen Hitam|10|25|Dibeli
+22-10-2026 09:28:25|BRG001|Indomie Goreng|2|48|Beli
+09-11-2026 07:50:22|BRG004|Beras 1 kg|2|8|Dibeli
+09-11-2026 07:51:55|BRG001|Indomie Goreng|26|14|Dibeli
+09-11-2026 07:52:36|BRG001|Indomie Goreng|12|2|Dibeli
+09-11-2026 08:44:39|BRG001|Indomie Goreng|10|40|expired
