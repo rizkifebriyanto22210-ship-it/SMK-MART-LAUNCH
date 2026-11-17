@@ -1,0 +1,22 @@
+BRG002|Indomie Goreng|4000|40|5|Aktif|300000
+BRG003|Mie Sedaap Goreng|3500|18|5|Aktif|0
+BRG004|Beras 1 kg|16000|5|2|Aktif|0
+BRG005|Gula Pasir 1 kg|17000|10|2|Aktif|0
+BRG006|Minyak Goreng 1 L|18000|20|3|Aktif|0
+BRG007|Air Mineral 600 ml|3000|50|8|Aktif|0
+BRG008|Teh Botol|5000|20|5|Aktif|0
+BRG009|Susu UHT Cokelat|6000|5|3|Aktif|0
+BRG010|Kopi Sachet|2000|30|5|Aktif|0
+BRG011|Biskuit Cokelat|7000|15|3|Tidak Aktif|0
+BRG012|Wafer Cokelat|2500|20|5|Aktif|0
+BRG013|Keripik Kentang|8000|12|3|Aktif|0
+BRG014|Roti Cokelat|5000|15|3|Aktif|0
+BRG015|Permen Mint|1000|50|10|Aktif|0
+BRG016|Sabun Mandi|4000|10|3|Aktif|0
+BRG017|Sampo Sachet|1000|30|5|Aktif|0
+BRG018|Pasta Gigi|7000|5|2|Aktif|0
+BRG019|Buku Tulis|5000|30|5|Aktif|0
+BRG020|Pulpen Hitam|3000|30|5|Aktif|0
+BRG021|Selada|5000|15|5|Aktif|0
+BRG022|Kangkung|5000|10|5|Aktif|0
+BRG023|Apel|4000|20|5|Aktif|0
